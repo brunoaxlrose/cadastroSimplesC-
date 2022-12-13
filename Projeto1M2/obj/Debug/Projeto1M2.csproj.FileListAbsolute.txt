@@ -1,0 +1,17 @@
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\bin\Debug\Projeto1M2.exe.config
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\bin\Debug\Projeto1M2.exe
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\bin\Debug\Projeto1M2.pdb
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\obj\Debug\Projeto1M2.csproj.AssemblyReference.cache
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\obj\Debug\Projeto1M2.Properties.Resources.resources
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\obj\Debug\Projeto1M2.csproj.GenerateResource.cache
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\obj\Debug\Projeto1M2.csproj.CoreCompileInputs.cache
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\obj\Debug\Projeto1M2.exe
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\obj\Debug\Projeto1M2.pdb
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\bin\Debug\MySql.Data.dll
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\bin\Debug\System.Memory.dll
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\bin\Debug\System.Buffers.dll
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\obj\Debug\Projeto1M2.csproj.CopyComplete
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\obj\Debug\Projeto1M2.frm_Consultar.resources
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\obj\Debug\Projeto1M2.frm_MenuPrincipal.resources
+C:\Users\37919058805\source\repos\Projeto1M2\Projeto1M2\obj\Debug\Projeto1M2.frm_Cadastro.resources
