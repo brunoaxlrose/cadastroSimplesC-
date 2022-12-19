@@ -37,8 +37,7 @@ namespace Projeto1M2
             pessoa.setCPF(txtCPF.Text);
             pessoa.setEscolaridade(cbxEscolaridade.Text);
             pessoa.setAreaFormacao(cbxAreaFormacao.Text);
-            //MessageBox.Show("Dados armazenados com sucesso!", "Registrar dados", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            
+           
             //Banco de dados mySQL
             MySqlConnection conexao = new MySqlConnection("server=localhost; User Id=root; database=cadastro_cliente; password=''");
             MySqlCommand sqlQuery = new MySqlCommand("INSERT INTO dados_formularios (usuario, senha, nome, sobrenome, email,ocupacao, pais" +

@@ -20,7 +20,6 @@
         this.escolaridade = "";
         this.areaFormacao = "";
     }
-    //kkk cadde
     //Métodos SET/ GET
     public void setUsuario(string par_Usuario)
     {
