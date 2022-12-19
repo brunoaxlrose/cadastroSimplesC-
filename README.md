@@ -13,4 +13,6 @@
  <h2> Tela de consulta </h2> <br>
    <img align="center" alt="tela_Consulta" src="https://raw.githubusercontent.com/brunoaxlrose/cadastroSimplesC-/master/Projeto1M2/imagens/telaConsulta.png" />
  <br>
+ 
+ <h2> Projeto atualizado 19/12/2022 </h2>
 </div>
